@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaporwear-react-site-draft/static/css/main.ca09baaa.css",
+    "main.js": "/vaporwear-react-site-draft/static/js/main.bce1ec83.js",
+    "index.html": "/vaporwear-react-site-draft/index.html",
+    "main.ca09baaa.css.map": "/vaporwear-react-site-draft/static/css/main.ca09baaa.css.map",
+    "main.bce1ec83.js.map": "/vaporwear-react-site-draft/static/js/main.bce1ec83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca09baaa.css",
+    "static/js/main.bce1ec83.js"
+  ]
+}
